@@ -1,0 +1,40 @@
+# 🔥 Python virtual environments
+venv/
+.env/
+.venv/
+
+# 🐍 Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔧 Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 📦 Package management files
+Pipfile.lock
+poetry.lock
+
+# 📝 Logs and temp files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# 🖼 Streamlit cache
+.streamlit/config.toml
+.streamlit/secrets.toml
+.streamlit/cache/
+
+# 🧪 Jupyter/IPython
+.ipynb_checkpoints/
+
+# 🧼 Mac/Linux/Windows cruft
+.DS_Store
+Thumbs.db
+
+# 🚫 Local environment overrides
+.envrc
