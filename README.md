@@ -1,6 +1,6 @@
 # 📈 Stocks Screener
 
-A dynamic, interactive web app to screen and rank S&P 500 stocks based on key financial factors like valuation, profitability, growth, and risk. Built with Python and Streamlit, this app empowers users to explore investment opportunities using real data and custom logic — without writing a single line of code.
+A dynamic, interactive web app to screen and rank S&P 500 stocks based on key financial factors like valuation, profitability, growth, and risk. Built with Python and Streamlit, this app empowers users to explore investment opportunities using real data and custom logic
 
 ---
 
